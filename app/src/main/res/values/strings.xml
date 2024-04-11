@@ -11,4 +11,5 @@
     <string name="action_reset">Reset</string>
     <string name="title_reset_password">Reset Password</string>
     <string name="action_forget_password">forget password?</string>
+    <string name="title_profile_screen">Profile Screen</string>
 </resources>
